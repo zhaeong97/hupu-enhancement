@@ -6,11 +6,10 @@
 // @version      1.4.0
 // @description  虎扑帖子图片优化、视频悬浮、评论交互增强、工具栏优化等多项功能，提升虎扑浏览体验
 // @description:zh-CN  虎扑帖子图片优化、视频悬浮、评论交互增强、工具栏优化等多项功能，提升虎扑浏览体验
+// @description:en Hu Pu post image optimization, video suspension, comment interaction enhancement, toolbar optimization and other functions enhance the Hu Pu browsing experience
 // @author       zhaeong
-// @homepage     https://github.com/tampermonkey-scripts/hupu-enhancement
-// @supportURL   https://github.com/tampermonkey-scripts/hupu-enhancement/issues
-// @updateURL    https://raw.githubusercontent.com/tampermonkey-scripts/hupu-enhancement/main/hupu-enhancement.user.js
-// @downloadURL  https://raw.githubusercontent.com/tampermonkey-scripts/hupu-enhancement/main/hupu-enhancement.user.js
+// @homepage     https://github.com/zhaeong97/hupu-enhancement
+// @supportURL   https://github.com/zhaeong97/hupu-enhancement/issues
 // @license      MIT
 // @match        https://bbs.hupu.com/*
 // @match        https://*.hupu.com/*
@@ -25,6 +24,8 @@
 // @grant        GM_getResourceText
 // @grant        GM_registerMenuCommand
 // @noframes
+// @downloadURL https://update.greasyfork.org/scripts/557606/%E8%99%8E%E6%89%91%E5%A2%9E%E5%BC%BA.user.js
+// @updateURL https://update.greasyfork.org/scripts/557606/%E8%99%8E%E6%89%91%E5%A2%9E%E5%BC%BA.meta.js
 // ==/UserScript==
 
 (function () {
